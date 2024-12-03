@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+p {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
